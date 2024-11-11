@@ -100,7 +100,7 @@ to hack on the code.
 ## Clients
 
 You need a bunch of receivers running mlat-client:
-https://github.com/wiedehopf/mlat-client
+https://github.com/rkarikari/mlat-client
 The original version by mutability will also work but the wiedehopf client has some changes that are useful.
 (https://github.com/mutability/mlat-client)
 
